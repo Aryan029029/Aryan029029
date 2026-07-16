@@ -1,13 +1,20 @@
-# Hi, I'm Aryan Sheoran
-**Turning data into decisions || AI & ML Engineer in the making || Building things that actually matter**
-Email - ✉️ **aryansheoran319@gmail.com** For Collaboration/Project or Anything Else.
+# Hi, I'm Aryan Sheoran 👋
 
-- Right now most of my time is going into building an NLP based Mental Health Risk Screening System. I am fine tuning BERT on this massive Reddit dataset and designed my own emotion to risk mapping from scratch which honestly does not exist in prior literature so that keeps me pretty hooked.
-- Would love to work with people building meaningful things in ML or NLP, especially if it solves a real problem. Mental health tech, AI research, anything that actually matters. I am very early in my journey but I bring curiosity and I work hard.
-- Trying to figure out how to take a model that works on my laptop and actually put it out in the world. Deployment, production pipelines, that whole side of things is where I need guidance right now.
-- Going deep into NLP and Deep Learning at the moment. Taking Columbia University's ML course on the side, getting my hands dirty with PyTorch, HuggingFace and BERT, and also building classifiers from absolute scratch just to make sure I actually understand what is happening under the hood.
-- python, Machine Learning, NLP, getting started with AI as a student, or just the whole process of going from an idea to an actual working project. I have been navigating all of that recently so just ask.
-- I qualified the NDA written exam and reached the SSB stage twice while also being neck deep in machine learning. So yes I am very much used to operating under pressure and I kind of enjoy it. 🎖️
+**Building reliable AI systems • LLMs • RAG • AI Security**
+
+📧 **aryansheoran319@gmail.com** | Always open to collaborations, research, or just talking AI.
+
+- Recently, most of my time has gone into building projects around **Large Language Models and Retrieval-Augmented Generation (RAG)**. I enjoy taking ideas beyond tutorials and turning them into things people can actually use.
+
+- My interests have gradually shifted towards **AI Security and Trustworthy AI**. I'm particularly curious about how LLMs fail, how they can be evaluated, and how we can build systems that remain secure even when the model itself isn't fully trusted.
+
+- Currently exploring **LLMs, RAG, agentic AI, prompt engineering, model evaluation, and AI security**, while continuously building projects that help me understand these areas in depth.
+
+- Always happy to collaborate on projects involving **Machine Learning, NLP, LLMs, AI Security, or open-source AI**. If you're building something interesting, I'd love to hear about it.
+
+- I qualified the **NDA Written Examination twice** and reached the **SSB Interview** stage twice. It taught me resilience, discipline, and staying calm under pressure—qualities I try to bring into every project I build.
+
+> *"I measure my learning by the systems I build, not the tutorials I finish."*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sheoran29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansheoran319@gmail.com) 
